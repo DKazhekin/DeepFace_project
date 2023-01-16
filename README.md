@@ -76,7 +76,7 @@ python bot.py
 
 ### 3. Главная функция - Filter, применяющая разные стили к фотографиям
 #### 3.1 Стиль Art
-![3](https://i.postimg.cc/NFGvT3qq/IMG-4130.png)
+![3](https://i.postimg.cc/bvPCsQf4/IMG-4132.png)
 
 #### 3.2 Стиль Arcane-multi
 
